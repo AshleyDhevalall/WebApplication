@@ -11,6 +11,9 @@ namespace WebApplication.Tests
 {
   public class PostClientServiceTests
   {
+    private System.Uri testUri = new System.Uri("https://jsonplaceholder.typicode.com/posts");
+    private string testJson;
+
     [Fact]
     public async void ShouldReturnPosts()
     {
@@ -28,6 +31,7 @@ namespace WebApplication.Tests
             ItExpr.IsAny<HttpRequestMessage>(),
             ItExpr.IsAny<CancellationToken>())
          .ReturnsAsync(response);
+
       var httpClient = new HttpClient(handlerMock.Object);
       var posts = new PostClientService(httpClient);
 

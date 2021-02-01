@@ -1,0 +1,9 @@
+C:\Projects\WebApplication\TestCaseApp\bin\Debug\netcoreapp3.1\TestCaseApp.Client.deps.json
+C:\Projects\WebApplication\TestCaseApp\bin\Debug\netcoreapp3.1\TestCaseApp.Client.dll
+C:\Projects\WebApplication\TestCaseApp\bin\Debug\netcoreapp3.1\TestCaseApp.Client.pdb
+C:\Projects\WebApplication\TestCaseApp\obj\Debug\netcoreapp3.1\TestCaseApp.Client.csprojAssemblyReference.cache
+C:\Projects\WebApplication\TestCaseApp\obj\Debug\netcoreapp3.1\TestCaseApp.Client.AssemblyInfoInputs.cache
+C:\Projects\WebApplication\TestCaseApp\obj\Debug\netcoreapp3.1\TestCaseApp.Client.AssemblyInfo.cs
+C:\Projects\WebApplication\TestCaseApp\obj\Debug\netcoreapp3.1\TestCaseApp.Client.csproj.CoreCompileInputs.cache
+C:\Projects\WebApplication\TestCaseApp\obj\Debug\netcoreapp3.1\TestCaseApp.Client.dll
+C:\Projects\WebApplication\TestCaseApp\obj\Debug\netcoreapp3.1\TestCaseApp.Client.pdb

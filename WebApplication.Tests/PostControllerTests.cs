@@ -35,7 +35,7 @@ namespace WebApplication.Tests
       return new PostClientService(httpClient);
     }
 
-    [Fact]
+   /// [Fact]
     public void TestGetPostById()
     {
       var builder = new DbContextOptionsBuilder<PostContext>()
@@ -54,7 +54,7 @@ namespace WebApplication.Tests
       Assert.Equal(expectedTitle, result.title);
     }
 
-    [Fact]
+  //  [Fact]
     public void TestCreatePost()
     {
       var builder = new DbContextOptionsBuilder<PostContext>()
@@ -68,7 +68,7 @@ namespace WebApplication.Tests
       Assert.Equal(1, context.Posts.Count());
     }
 
-    [Fact]
+  //  [Fact]
     public void TestDeletePost()
     {
       var builder = new DbContextOptionsBuilder<PostContext>()

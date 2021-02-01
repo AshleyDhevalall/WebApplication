@@ -1,0 +1,17 @@
+C:\Projects\WebApplication\TestCaseApp.Console\obj\Debug\netcoreapp3.1\TestCaseApp.Console.csprojAssemblyReference.cache
+C:\Projects\WebApplication\TestCaseApp.Console\obj\Debug\netcoreapp3.1\TestCaseApp.Console.AssemblyInfoInputs.cache
+C:\Projects\WebApplication\TestCaseApp.Console\obj\Debug\netcoreapp3.1\TestCaseApp.Console.AssemblyInfo.cs
+C:\Projects\WebApplication\TestCaseApp.Console\obj\Debug\netcoreapp3.1\TestCaseApp.Console.csproj.CoreCompileInputs.cache
+C:\Projects\WebApplication\TestCaseApp.Console\bin\Debug\netcoreapp3.1\TestCaseApp.Console.exe
+C:\Projects\WebApplication\TestCaseApp.Console\bin\Debug\netcoreapp3.1\TestCaseApp.Console.deps.json
+C:\Projects\WebApplication\TestCaseApp.Console\bin\Debug\netcoreapp3.1\TestCaseApp.Console.runtimeconfig.json
+C:\Projects\WebApplication\TestCaseApp.Console\bin\Debug\netcoreapp3.1\TestCaseApp.Console.runtimeconfig.dev.json
+C:\Projects\WebApplication\TestCaseApp.Console\bin\Debug\netcoreapp3.1\TestCaseApp.Console.dll
+C:\Projects\WebApplication\TestCaseApp.Console\bin\Debug\netcoreapp3.1\TestCaseApp.Console.pdb
+C:\Projects\WebApplication\TestCaseApp.Console\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\WebApplication\TestCaseApp.Console\obj\Debug\netcoreapp3.1\TestCaseApp.Console.csproj.CopyComplete
+C:\Projects\WebApplication\TestCaseApp.Console\obj\Debug\netcoreapp3.1\TestCaseApp.Console.dll
+C:\Projects\WebApplication\TestCaseApp.Console\obj\Debug\netcoreapp3.1\TestCaseApp.Console.pdb
+C:\Projects\WebApplication\TestCaseApp.Console\obj\Debug\netcoreapp3.1\TestCaseApp.Console.genruntimeconfig.cache
+C:\Projects\WebApplication\TestCaseApp.Console\bin\Debug\netcoreapp3.1\TestCaseApp.Client.dll
+C:\Projects\WebApplication\TestCaseApp.Console\bin\Debug\netcoreapp3.1\TestCaseApp.Client.pdb
